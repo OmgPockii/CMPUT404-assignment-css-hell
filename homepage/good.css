@@ -1,0 +1,49 @@
+body {
+    font-family: "Garamond", serif;
+  }
+  
+  img {
+    position: absolute;
+    right: 35%;
+    top: 6%;
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .container {
+    background-color: #196a8c;
+    padding: 5%;
+  }
+  
+  .borderText {
+    font-size: 75px;
+    color: #f7e3b0;
+    text-align: center;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black; /* Used from code provided by: Narcélio Filho (https://stackoverflow.com/a/4269821/16806636) */
+  }
+  
+  .info {
+    display: block;
+    padding: 20px;
+    max-width: 75%;
+    float: left;
+  }
+  
+  .sidebar {
+    display: block;
+    background-color: #a6abb3;
+    float: right;
+    padding: 20px;
+    max-width: 20%;
+  }
+  
+  h {
+    font-size: 35px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  

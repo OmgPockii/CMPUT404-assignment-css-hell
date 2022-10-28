@@ -34,4 +34,14 @@ Code is licensed under the Apache 2.0 license.
 
 - Note that images for this part were displayed at 67% of the size in Chrome to display more of the page.
 
+# Sources
+
+- Used to override previous styling because I found some of my CSS didn't apply
+  - https://www.w3schools.com/css/css_important.asp
+- Used as for a visual guide to some basic CSS tactics/use cages
+  - https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia
+- Used for "borders" on text (by Narcélio Filho)
+  - https://stackoverflow.com/a/4269821/16806636
+
+
 
